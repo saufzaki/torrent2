@@ -24,6 +24,7 @@ See [the latest release](https://github.com/jpillora/cloud-torrent/releases/late
 
 ``` sh
 $ go get -v github.com/jpillora/cloud-torrent
+fuc
 ```
 
 **Docker**
